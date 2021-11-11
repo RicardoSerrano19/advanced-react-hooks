@@ -54,9 +54,6 @@
       "src/final/**/*.js"
     ]
   },
-  "eslintConfig": {
-    "extends": "react-app"
-  },
   "babel": {
     "presets": [
       "babel-preset-react-app"
